@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   sodipodi:docname="DHT22_diagram 拷貝.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="208.12472"
+     inkscape:cy="560"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1440"
+     inkscape:window-height="802"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:#ebebeb;fill-opacity:0;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect815"
+       width="128.5119"
+       height="214.69048"
+       x="60.476189"
+       y="33.92857" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot817"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:Droid;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Droid;font-stretch:normal;font-variant:normal"><flowRegion
+         id="flowRegion819"><rect
+           id="rect821"
+           width="285.71429"
+           height="137.14285"
+           x="274.28571"
+           y="199.66254" /></flowRegion><flowPara
+         id="flowPara823" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Droid;-inkscape-font-specification:Droid;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="103.56547"
+       y="70.970238"
+       id="text827"><tspan
+         sodipodi:role="line"
+         id="tspan825"
+         x="103.56547"
+         y="81.013824"
+         style="stroke-width:0.26458332" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.00247955px;line-height:1.25;font-family:'OCR A Extended';-inkscape-font-specification:'OCR A Extended, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.43755239"
+       x="64.093323"
+       y="127.04331"
+       id="text831"
+       transform="scale(1.2930657,0.77335589)"><tspan
+         sodipodi:role="line"
+         x="64.093323"
+         y="127.04331"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.00247955px;font-family:'OCR A Extended';-inkscape-font-specification:'OCR A Extended, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.43755239"
+         id="tspan885">GM1602</tspan><tspan
+         sodipodi:role="line"
+         x="64.093323"
+         y="153.29642"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.00247955px;font-family:'OCR A Extended';-inkscape-font-specification:'OCR A Extended, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.43755239"
+         id="tspan833">module</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.02937889px;line-height:1.25;font-family:'OCR A Extended';-inkscape-font-specification:'OCR A Extended, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.7257362"
+       x="45.087212"
+       y="234.81717"
+       id="text4596"
+       transform="scale(1.3879556,0.72048413)"><tspan
+         sodipodi:role="line"
+         id="tspan4594"
+         x="45.087212"
+         y="234.81717"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.02937889px;font-family:'OCR A Extended';-inkscape-font-specification:'OCR A Extended, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.7257362">OUT</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.83615875px;line-height:1.25;font-family:'OCR A Extended';-inkscape-font-specification:'OCR A Extended, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.67090601"
+       x="49.711891"
+       y="274.96555"
+       id="text4600"
+       transform="scale(1.4680914,0.6811565)"><tspan
+         sodipodi:role="line"
+         id="tspan4598"
+         x="49.711891"
+         y="274.96555"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.83615875px;font-family:'OCR A Extended';-inkscape-font-specification:'OCR A Extended, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.67090601">5V</tspan><tspan
+         sodipodi:role="line"
+         x="49.711891"
+         y="308.51074"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.83615875px;font-family:'OCR A Extended';-inkscape-font-specification:'OCR A Extended, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.67090601"
+         id="tspan883" /></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4602"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:Droid;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Droid;font-stretch:normal;font-variant:normal"><flowRegion
+         id="flowRegion4604"><rect
+           id="rect4606"
+           width="100"
+           height="60"
+           x="285.71429"
+           y="708.23395" /></flowRegion><flowPara
+         id="flowPara4608" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.35179329px;line-height:1.25;font-family:'OCR A Extended';-inkscape-font-specification:'OCR A Extended, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.65879709"
+       x="44.134071"
+       y="297.33667"
+       id="text4612"
+       transform="scale(1.4367659,0.69600761)"><tspan
+         sodipodi:role="line"
+         id="tspan4610"
+         x="44.134071"
+         y="297.33667"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.35179329px;font-family:'OCR A Extended';-inkscape-font-specification:'OCR A Extended, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.65879709">GND</tspan><tspan
+         sodipodi:role="line"
+         x="44.134071"
+         y="330.2764"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.35179329px;font-family:'OCR A Extended';-inkscape-font-specification:'OCR A Extended, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.65879709"
+         id="tspan847" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.91015434px;line-height:1.25;font-family:'OCR A Extended';-inkscape-font-specification:'OCR A Extended, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.64775383"
+       x="51.232101"
+       y="322.65833"
+       id="text841"
+       transform="scale(1.4376885,0.69556097)"><tspan
+         sodipodi:role="line"
+         id="tspan839"
+         x="51.232101"
+         y="322.65833"
+         style="stroke-width:0.64775383">NC</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'OCR A Extended';-inkscape-font-specification:'OCR A Extended, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="87.690468"
+       y="204.01785"
+       id="text845"><tspan
+         sodipodi:role="line"
+         id="tspan843"
+         x="87.690468"
+         y="213.66833"
+         style="stroke-width:0.26458332" /></text>
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.47677916;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.01290325"
+       id="rect849"
+       width="58.964287"
+       height="3.7797618"
+       x="1.5119038"
+       y="159.4167"
+       inkscape:tile-cx="17.386904"
+       inkscape:tile-cy="163.5744"
+       inkscape:tile-w="58.964285"
+       inkscape:tile-h="3.7797617"
+       inkscape:tile-x0="-12.095238"
+       inkscape:tile-y0="161.68452" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect849"
+       xlink:href="#rect849"
+       transform="translate(0,40.821415)"
+       id="use877"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect849"
+       xlink:href="#rect849"
+       transform="translate(0,21.166659)"
+       id="use879"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect849"
+       xlink:href="#rect849"
+       transform="translate(0,63.499979)"
+       id="use881"
+       width="100%"
+       height="100%" />
+  </g>
+</svg>
